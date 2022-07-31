@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Pure Platform](pureplatform.com)
 
-- 📫 How to reach me **mustafarm17@gmail.com**
+- 📫 How to reach me **mustafa17falah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
