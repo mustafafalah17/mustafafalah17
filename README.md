@@ -5,7 +5,10 @@
 - 🔭 I’m currently open to work
 
 - 📫 How to reach me **mustafa17falah@gmail.com**
-
+<h3 align="left">previous works:</h3>
+<p align="left">
+<a href="https://pureplatform.com/in/mustafafalah17" target="blank"><img align="center" src="https://pureplatform.com/assets/img/pure_platform_logo.png" alt="mustafafalah17" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mustafafalah17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafafalah17" height="30" width="40" /></a>
