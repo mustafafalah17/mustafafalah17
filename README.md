@@ -19,7 +19,7 @@
     href="https://karlkolb.com/"
     target="_blank" >
     <img
-    src=https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/60/72/f3/6072f34c-a9cd-6131-c506-4b8c0e095058/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/1200x600wa.png
+    src=https://www.dotmed.com/images/news/stories/11569.jpg
     alt=pure platform style="margin-bottom: 5px; height: 100px;" />
   </a>
   
