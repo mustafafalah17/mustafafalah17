@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter and JS developer from Iraq</h3>
 
 
-- 🔭 I’m currently working at [Pure Platform](pureplatform.com)
+- 🔭 I’m currently open to work
 
 - 📫 How to reach me **mustafa17falah@gmail.com**
 
