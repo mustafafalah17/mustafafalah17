@@ -6,8 +6,16 @@
 
 - 📫 How to reach me **mustafa17falah@gmail.com**
 <h3 align="left">previous works:</h3>
-<p align="left">
-<a href="https://pureplatform.com/in/mustafafalah17" target="blank"><img align="center" src="https://pureplatform.com/assets/img/pure_platform_logo.png" alt="mustafafalah17" height="30" width="40" /></a>
+
+  <div align="left">
+    <a
+    href="https://pureplatform.com/"
+    target="_blank" >
+    <img
+    src=https://pureplatform.com/assets/img/pure_platform_logo.png
+    alt=pegasus style="margin-bottom: 5px; height: 100px;" />
+  </a>
+  
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
