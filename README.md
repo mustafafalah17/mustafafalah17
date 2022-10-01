@@ -13,14 +13,14 @@
     target="_blank" >
     <img
     src=https://pureplatform.com/assets/img/pure_platform_logo.png
-    alt=pure platform style="margin-bottom: 5px; height: 100px;" />
+    alt=pure platform style="margin-bottom: 5px; height: 100px; width:150px" />
   </a>
    <a
     href="https://karlkolb.com/"
     target="_blank" >
     <img
     src=https://karlkolb.com/fileadmin/admin_only/templates/media/logo-top.png
-    alt=pure platform style="margin-bottom: 5px; height: 100px;" />
+    alt=pure platform style="margin-bottom: 5px; height: 100px; width:150px" />
   </a>
   
 </p>
