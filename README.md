@@ -15,12 +15,19 @@
     src=https://pureplatform.com/assets/img/pure_platform_logo.png
     alt=pure platform style="margin-bottom: 5px; height: 100px; width:220px" />
   </a>
+  <a
+    href="https://testlio.com/"
+    target="_blank" >
+    <img
+    src=https://testlio.com/wp-content/uploads/testlio-logo-blue.png
+    alt=testlio style="margin-bottom: 5px; height: 100px; width:220px" />
+  </a>
    <a
     href="https://karlkolb.com/"
     target="_blank" >
     <img
     src=https://karlkolb.com/fileadmin/admin_only/templates/media/logo-top.png
-    alt=pure platform style="margin-bottom: 5px; height: 100px; width:220px" />
+    alt=karl_kolb style="margin-bottom: 5px; height: 100px; width:220px" />
   </a>
   
 </p>
