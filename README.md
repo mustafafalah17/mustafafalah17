@@ -2,7 +2,7 @@
 <h3 align="center">A Flutter and JS developer from Iraq</h3>
 
 
-- 🔭 I’m currently open to work
+- 🔭 I’m currently working as Software enginner
 
 - 📫 How to reach me **mustafa17falah@gmail.com**
 <h3 align="left">previous works:</h3>
