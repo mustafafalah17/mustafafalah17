@@ -29,13 +29,7 @@
     src=https://karlkolb.com/fileadmin/admin_only/templates/media/logo-top.png
     alt=karl_kolb style="margin-bottom: 5px; height: 100px; width:220px" />
   </a>
-  <a
-    href="http://www.rits-iraq.com/"
-    target="_blank" >
-    <img
-    src=http://www.rits-iraq.com/images/logo.png
-    alt=Rits style="margin-bottom: 5px; height: 100px; width:220px" />
-  </a>
+
   
 </p>
 <h3 align="left">Connect with me:</h3>
