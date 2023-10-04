@@ -5,31 +5,6 @@
 - 🔭 I’m currently working as Software enginner
 
 - 📫 How to reach me **mustafa17falah@gmail.com**
-<h3 align="left">previous works:</h3>
-
-  <div align="left">
-    <a
-    href="https://pureplatform.com/"
-    target="_blank" >
-    <img
-    src=https://pureplatform.com/assets/img/pure_platform_logo.png
-    alt=pure platform style="margin-bottom: 5px; height: 100px; width:220px" />
-  </a>
-  <a
-    href="https://testlio.com/"
-    target="_blank" >
-    <img
-    src=https://testlio.com/wp-content/uploads/testlio-logo-blue.png
-    alt=testlio style="margin-bottom: 5px; height: 100px; width:220px" />
-  </a>
-   <a
-    href="https://karlkolb.com/"
-    target="_blank" >
-    <img
-    src=https://karlkolb.com/fileadmin/admin_only/templates/media/logo-top.png
-    alt=karl_kolb style="margin-bottom: 5px; height: 100px; width:220px" />
-  </a>
-
   
 </p>
 <h3 align="left">Connect with me:</h3>
